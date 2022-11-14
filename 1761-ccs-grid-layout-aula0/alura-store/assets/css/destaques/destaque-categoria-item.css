@@ -1,0 +1,7 @@
+.destaques__categorias___item{
+  align-items: center;
+  background:#fdfdfd ;
+  display: flex;
+  color: #333333;
+  width: 50%;
+}

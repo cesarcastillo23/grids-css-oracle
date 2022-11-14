@@ -1,0 +1,12 @@
+.populares__contenido{
+  display:flex;
+  flex-wrap: wrap;
+  grid-area: populares__contenido;
+  padding:1rem 0rem;
+}
+@media screen and (max-width:600px) {
+  .populares__contenido{
+    flex-direction:column;
+
+  }
+  }

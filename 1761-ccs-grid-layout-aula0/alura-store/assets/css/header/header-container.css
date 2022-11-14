@@ -1,0 +1,6 @@
+.header__container{
+  grid-area: header__container;
+  align-items: center;
+  display: flex;
+  padding: 0  2rem;
+}

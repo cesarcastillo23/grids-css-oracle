@@ -1,0 +1,10 @@
+.destaques__categorias {
+  grid-column: 1 / 3;
+  grid-row: 3 / 4;
+  background-color: #fdfdfd;
+}
+@media screen and (max-width:600px) {
+  .destaques__categorias{
+    grid-column:1/5;
+  }
+}
